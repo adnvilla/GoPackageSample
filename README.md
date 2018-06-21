@@ -1,0 +1,2 @@
+# GoPackageSample
+Go Package Sample
